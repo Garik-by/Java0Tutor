@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Maintest2 {
+public class Maintest1_2 {
     public static void main(String[] args) {
         System.out.print("In A (double 0,0) = ");
         Scanner console = new Scanner(System.in);

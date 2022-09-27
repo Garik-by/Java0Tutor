@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Maintest4 {
+public class Maintest1_4 {
     public static void main(String[] args) {
         System.out.print("In (format  nnn,ddd) = ");
         Scanner console = new Scanner(System.in);

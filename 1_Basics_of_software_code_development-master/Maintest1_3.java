@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Maintest3 {
+public class Maintest1_3 {
     public static void main(String[] args) {
         System.out.print("In X (double 0,0) = ");
         Scanner console = new Scanner(System.in);

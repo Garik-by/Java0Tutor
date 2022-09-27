@@ -1,4 +1,4 @@
-public class Maintest1 {
+public class Maintest1_1 {
     public static void main(String[] args) {
         int a = 1;
         int b = 2;

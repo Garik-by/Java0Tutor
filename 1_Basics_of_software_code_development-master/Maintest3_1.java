@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Maintest3_1 {
     public static void main(String[] args) {
-        System.out.print("In (int) = ");
+        System.out.print("Число до какого счет (int) = ");
         Scanner console = new Scanner(System.in);
         int x = console.nextInt();
         int ret = 0;
@@ -11,6 +11,6 @@ public class Maintest3_1 {
         else
             for (int i=1;i<x;i++)
                 ret+=i;
-        System.out.println(ret);
+        System.out.println("Сумма = " + ret);
     }
 }

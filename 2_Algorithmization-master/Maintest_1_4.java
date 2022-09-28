@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 //Даны действительные числа а 1  ,а 2  ,..., а n  . Поменять местами наибольший и наименьший элементы.
 public class Maintest_1_4 {
     public static void main(String[] args) {
